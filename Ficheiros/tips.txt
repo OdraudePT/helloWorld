@@ -1,0 +1,18 @@
+https://start.spring.io/
+
+
+set JAVA_HOME=C:\Program Files\AdoptOpenJDK\jdk-11.0.10.9-hotspot
+
+mvnw spring-boot:run  // Este funciona
+
+http://localhost:8080/api/greeter
+
+
+/*
+
+./mvnw spring-boot:run
+
+*/
+
+
+Ctrl C //mata o servidor mas nao terminal
